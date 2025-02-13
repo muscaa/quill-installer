@@ -2,6 +2,7 @@
 
 ## Linux & MacOS
 
+### Curl
 ```bash
-curl -sk https://raw.githubusercontent.com/muscaa/quill-installer/refs/heads/main/scripts/install.sh | bash
+curl -kLO https://raw.githubusercontent.com/muscaa/quill-installer/refs/heads/main/scripts/install.sh | bash
 ```
